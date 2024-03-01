@@ -1,0 +1,13 @@
+/* frontend/src/pages/Home.scss */
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  .link {
+    cursor: pointer;
+    color: rgb(0, 102, 255);
+  }
+}
+
+
